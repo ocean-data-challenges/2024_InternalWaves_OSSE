@@ -38,7 +38,7 @@ conda env create --file=environment.yml
 and activate it with:
 
 ```
-conda activate env-dc-global-ose
+conda activate env-dc_internalwaves_osse
 ```
 then add it to the available kernels for jupyter to see: 
 ```
