@@ -14,8 +14,8 @@
 
     </embed>
 
-Internal Waves
-============== 
+2024_InternalWaves_OSSE
+=======================
  
     
 .. raw:: html
