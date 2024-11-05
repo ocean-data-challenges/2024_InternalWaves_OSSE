@@ -5,7 +5,7 @@ import xrft
 from dask.diagnostics import ProgressBar
 import matplotlib.pyplot as plt
 import sys 
-sys.path.append('xscale/xscale/')
+sys.path.append('./xscale/xscale/')
 from spectral import fft as xfft 
 from matplotlib.colors import LogNorm 
 import matplotlib.pylab as plt

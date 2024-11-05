@@ -12,7 +12,7 @@ import scipy.linalg as spl
 import scipy.signal as signal
 import PowerSpec as ps
 
-sys.path.append('xscale/xscale/')
+sys.path.append('./xscale/xscale/')
 from spectral import fft as xfft
  
     
