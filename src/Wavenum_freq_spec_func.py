@@ -10,11 +10,10 @@ from functools import reduce
 import scipy.signal as sps
 import scipy.linalg as spl
 import scipy.signal as signal
+import xscale.xscale.spectral.fft as xfft
+ 
 import PowerSpec as ps
 
-sys.path.append('./xscale/xscale/')
-from spectral import fft as xfft
- 
     
     
 ########################################            

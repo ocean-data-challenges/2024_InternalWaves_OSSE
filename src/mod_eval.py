@@ -4,9 +4,10 @@ import logging
 import xrft
 from dask.diagnostics import ProgressBar
 import matplotlib.pyplot as plt
-import sys 
-sys.path.append('./xscale/xscale/')
-from spectral import fft as xfft 
+import sys
+sys.path.append("../src/")
+import xscale
+import xscale.xscale.spectral.fft as xfft
 from matplotlib.colors import LogNorm 
 import matplotlib.pylab as plt
 
