@@ -1,0 +1,21 @@
+name: xscale-doc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - ipython
+  - numpy
+  - scipy
+  - xarray
+  - pandas
+  - dask
+  - numba
+  - matplotlib
+  - seaborn
+  - graphviz
+  - sphinx
+  - sphinx_rtd_theme
+  - numpydoc
+  - pip
+  - pip:
+    - graphviz
