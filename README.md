@@ -1,6 +1,6 @@
 ## :warning: WORK in progress. This data-challenge is still under construction
   
-# Check out the data challenge [website](https://2024_InternalWaves_OSSE.readthedocs.io) for more infos !
+# Check out the data challenge [website](https://2024-internalwaves-osse.readthedocs.io) for more infos !
 
 <p align="center">
   <img src="figures/logos_partenaires_DC_InternalWaves2.jpg" alt="Alt Text" width="900"/>
