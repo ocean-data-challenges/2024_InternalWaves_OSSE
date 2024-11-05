@@ -1,0 +1,9 @@
+# ignoring results directory
+/results_dev/
+/dev/
+/data_dev/
+/data/
+/dc_data/
+/dc_data_old/
+/src/__pycache__/ 
+/old_files/
