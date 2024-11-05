@@ -11,8 +11,7 @@ import scipy.signal as sps
 import scipy.linalg as spl
 import scipy.signal as signal
 import xscale.xscale.spectral.fft as xfft
-
-sys.path.insert(0, "/home/albert/lib/python/w_k_scripts")
+ 
 import PowerSpec as ps
 
     
