@@ -15,6 +15,7 @@
     </embed>
 
 Internal Waves
+============== 
  
     
 .. raw:: html
@@ -40,7 +41,7 @@ Internal Waves
 
  
 Objectives  
-========== 
+----------
     
      
     
@@ -64,7 +65,7 @@ Objectives
   
 
 Regions of interest      
-===================
+-------------------
  
 .. raw:: html
 
@@ -84,7 +85,7 @@ Regions of interest
      
      
 More data challenges   
-====================
+--------------------
 
 If you are interested in more data challenges relating to oceanographic data (global altimetric mapping, SWOT preprocessing techniques ...), you can visit the ocean-data-challenges website. 
   

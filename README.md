@@ -11,15 +11,15 @@
 This repository contains codes and sample notebooks for downloading and processing the 2024_InternalWaves_OSSE data challenge. 
  
  
-# 1. Context & Motivation
+## 1. Context & Motivation
 
 
 
 
-# 2. Get started
+## 2. Get started
 
 
-## Installation
+### Installation
 :computer: _**How to get started ?**_
 
 Clone the data challenge repo: 
@@ -49,12 +49,12 @@ finally, select the "env-dc-global-ose" kernel in your notebook with Kernel > Ch
 You're now good to go ! 
 
 
-## Download the data
+### Download the data
    
 
 
 
-# Acknowledgement
+## Acknowledgement
 
 
 
